@@ -5,4 +5,3 @@ const nightGreet = require('./night');
 const a = 'Hello, this is greeting.js!';
 
 module.exports = { a, morningGreet, nightGreet };
-// console.log(module.exports);
